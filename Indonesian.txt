@@ -667,6 +667,10 @@ https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="NEWS" tvg-logo="https://i.imgur.com/mt4h3VO.png",Phoenix News (Laotv)
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 
+#EXTINF:-1 tvg-id="tvOne.id",tvOne (1080p)
+https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+
+
 ````AFC CUP`````````
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AFC_Cup_logo.svg/480px-AFC_Cup_logo.svg.png",
