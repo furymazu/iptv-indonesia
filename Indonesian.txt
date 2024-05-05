@@ -667,7 +667,7 @@ https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="NEWS" tvg-logo="https://i.imgur.com/mt4h3VO.png",Phoenix News (Laotv)
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 
-#EXTINF:-1 tvg-id="tvOne.id",tvOne (1080p)
+#EXTINF:-1 tvg-id="tvOne.id",tvOne (1080p) group-title="NEWS"
 https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 
 
